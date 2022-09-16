@@ -1,2 +1,2 @@
-# CS262-Gold
-Software Development Team Gold - Peet's Coffee Remote Ordering App
+# cs262
+Software Development Labs and Homework
