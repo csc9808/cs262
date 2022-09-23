@@ -15,4 +15,4 @@ First we have stored them in a database form in the memory, then we pull them as
 
 5) Explain how the details screen presents the details of a single movie.
 
-Simil,lar to the Titles in homepage, we pull them from database and render the specified title's description using "<route>.<param>.<value>" That way we can display exactlty which information (value) that we want to display and render at page transition. 
+Simil,lar to the Titles in homepage, we pull them from database and render the specified title's description using route.param.value That way we can display exactlty which information (value) that we want to display and render at page transition. 
