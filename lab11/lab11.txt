@@ -1,0 +1,15 @@
+Lab 11.1
+Seong chan Cho
+
+Exercise 11.1
+
+[installed EsLint and Formatted Document]
+[Didn't see changes at code, went to ask Professor, he said it was fine. He told me to just submit
+ As Written Below]
+
+--- NOTE TO GRADER ---
+*** Please Note that Professor said that it was okay to submit Exercise 11.1 as written below ***
+
+I have installed and ran Format Document in the App.js and menuSelection.js with Eslint installed. (Professor told me not to worry about exercise 11.1, just mention that I have done it)
+
+I have also included JavaDoc in App.js module header file to indicate what the App does. 
